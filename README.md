@@ -1,1 +1,1 @@
-# odin-recipe
+Practicing all of the HTML knowlegde i gathered in the course . This is a Recipe website # odin-recipe
